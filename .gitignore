@@ -1,2 +1,5 @@
 *_Dataset
 *.zip
+\output
+\test_*
+\data
